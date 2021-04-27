@@ -1,0 +1,10 @@
+{
+       "name":"Natalia",
+       "surname":"Makarchyk",
+       "family":{"douther":{"Name":"Milana",
+                            "Age": 3,
+                            "fimale": true,
+                            "toys":["boll", "doll","bike",3,5,3,true,3.5,null,{"friend":"Artem"}]}
+              }
+
+}
